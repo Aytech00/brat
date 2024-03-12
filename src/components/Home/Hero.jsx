@@ -37,7 +37,7 @@ export default function Hero() {
               </button>
             </a>
 
-            <a href="ttps://raydium.io/swap/?inputCurrency=sol&outputCurrency=5uZbTHDkFcQVxf3cxXFuMMaAeNuXrW5MocfW5bKQ8ZrV&fixed=in" target='_blank'>
+            <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=5uZbTHDkFcQVxf3cxXFuMMaAeNuXrW5MocfW5bKQ8ZrV&fixed=in" target='_blank'>
               <button className="rounded-full transition-all hover:scale-105 text-black border-4 border-black    bg-[#57D1FE]  text-[14px] md:text-xl px-5 md:px-10 py-1">
                 FEED HIS VICES
               </button>
