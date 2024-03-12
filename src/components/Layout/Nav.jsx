@@ -8,15 +8,18 @@ const Nav = () => {
           <div>
             <img className="w-[100px] md:w-[200px]" src={logo} alt="" />
           </div>
-       
-          <div className="flex  items-center">
-            <a href="/">
+
+          <div className="flex gap-1  items-center px-1">
+            <a
+              href="
+https://t.me/bratt_on_sol"
+            >
               <button className="rounded-full transition-all hover:scale-105 text-white border-4 border-black   bg-[#57D1FE]  text-[10px] md:text-xl px-4 md:px-10 py-1">
                 TELEGRAM
               </button>
             </a>
 
-            <a href="/">
+            <a href="https://dexscreener.com/solana/5uZbTHDkFcQVxf3cxXFuMMaAeNuXrW5MocfW5bKQ8ZrV">
               <button className="rounded-full transition-all hover:scale-105 text-white border-4 border-black    bg-[#57D1FE]  text-[10px] md:text-xl px-5 md:px-10 py-1">
                 BUY NOW
               </button>

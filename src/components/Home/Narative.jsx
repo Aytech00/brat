@@ -38,7 +38,7 @@ export default function Narative() {
               woman... ​ And that was that. ​ Years later and Pepe has become a
               cultural icon, rubbing off some of his popularity on Brett who has
               become a big name himself owing to his own Crypto token which
-              breached 300 million USD in market cap on the base chain network.
+              breached 300 million USD in market cap on the sol chain network.
               ​ Brett was surprised by the sudden visit of a weird, spiky-haired
               kid who also had an earring.
             </p>

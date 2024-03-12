@@ -12,14 +12,14 @@ export default function How() {
         <div className="flex mt-10 flex-col md:flex-row  justify-center ">
           <div className=" md:w-[40%]  ">
             <img
-              className=" -m-24 md:h-[700px] mx-auto w-[500px] md:w-[300px]"
+              className=" -m-24 md:h-[700px] mx-auto w-[300px] h-[500px] md:w-[300px]"
               src={img2}
               alt=""
             />
           </div>
           <div className="  w-full  text-center md:text-left  px-5 md:w-[45%] ">
             <div className=" bg-[#9CAECB] mb-10 px-4 py-6 h-[100px] flex items-center w-full relative">
-              <h1 className="text-9xl text-[#DEF709] font-semibold absolute -left-10 -top-">
+              <h1 className=" text-7xl md:text-9xl text-[#DEF709] font-semibold absolute -left-6 md:-left-10 -top-">
                 1
               </h1>
               <span></span>
@@ -30,7 +30,7 @@ export default function How() {
               </p>
             </div>
             <div className="bg-[#9CAECB] mb-10 px-4 py-6 h-[100px] gap-x-6 flex  items-center w-full relative">
-              <h1 className="text-9xl text-[#DEF709] font-semibold absolute -left-10 -top-">
+              <h1 className=" text-7xl md:text-9xl text-[#DEF709] font-semibold absolute -left-6 md:-left-10 -top-">
                 2
               </h1>
 
@@ -40,7 +40,7 @@ export default function How() {
               </p>
             </div>
             <div className="bg-[#9CAECB]  px-4 py-6 h-[100px] gap-x-6 flex  items-center w-full relative">
-              <h1 className="text-9xl   text-[#DEF709] font-semibold absolute -left-10 -top-">
+              <h1 className=" text-7xl md:text-9xl text-[#DEF709] font-semibold absolute -left-6 md:-left-10 -top-">
                 3
               </h1>
 
