@@ -18,35 +18,44 @@ export default function How() {
             />
           </div>
           <div className="  w-full  text-center md:text-left  px-5 md:w-[45%] ">
-            <div className=" bg-[#9CAECB] mb-10 px-4 py-6 h-[100px] flex items-center w-full relative">
+            <div className=" bg-[#9CAECB] mb-10 px-4 py-10 md:py-6 h-[120px] flex items-center w-full relative">
               <h1 className=" text-7xl md:text-9xl text-[#DEF709] font-semibold absolute -left-6 md:-left-10 -top-">
                 1
               </h1>
               <span></span>
 
               <p className="text-[14px] text-center">
-                Buy ETH from your favorited CEX such as Binance or coinbase.
-                Bridge your eth from ethereum to base using Orbiter.finance .
+                 Download and install phantom wallet on the appstore, or
+                alternatively if you're on the desktop download and install the
+                browser extension. Phantom wallet link: https://phantom.app/
               </p>
             </div>
-            <div className="bg-[#9CAECB] mb-10 px-4 py-6 h-[100px] gap-x-6 flex  items-center w-full relative">
+            <div className="bg-[#9CAECB] mb-10 px-4 py-10 md:py-6 h-[120px] gap-x-6 flex  items-center w-full relative">
               <h1 className=" text-7xl md:text-9xl text-[#DEF709] font-semibold absolute -left-6 md:-left-10 -top-">
                 2
               </h1>
 
               <p className="text-[14px] text-center">
-                Connect your wallet to Uniswap. Make Sure you're using the Base
-                Network. Paste our official CA
+                Now all you have to do is buy your solana in the phantom app, or
+                alternatively you can use an exchange and deposit using your
+                wallet address. <br /> Binance: https://www.binance.com/ <br />{" "}
+                Coinbase: https://www.coinbase.com/
               </p>
             </div>
-            <div className="bg-[#9CAECB]  px-4 py-6 h-[100px] gap-x-6 flex  items-center w-full relative">
+            <div className="bg-[#9CAECB]  px-4 py-10 md:py-6 h-[120px] gap-x-6 flex  items-center w-full relative">
               <h1 className=" text-7xl md:text-9xl text-[#DEF709] font-semibold absolute -left-6 md:-left-10 -top-">
                 3
               </h1>
 
               <p className="text-[14px] text-center">
-                Buy $BRATT. Do Not Jeet. Take out your initials if you have to.
-                Most importantly, HOLD until we reach the millions
+                Go on to Raydium and paste the CA to swap your SOL for $BRATT{" "}
+                <br /> Radium buy link:{" "}
+                <a
+                  className="text-blue-700 underline"
+                  href=" https://raydium.io/swap/?inputCurrency=sol&outputCurrency=5uZbTHDkFcQVxf3cxXFuMMaAeNuXrW5MocfW5bKQ8ZrV&fixed=inons"
+                >
+                  Click here
+                </a>
               </p>
             </div>
           </div>

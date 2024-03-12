@@ -6,10 +6,14 @@ import AboutCoin from "../components/Home/AboutCoin";
 import How from "../components/Home/How";
 import Cta from "../components/Home/Cta";
 
+
+
 export default function Home() {
   return (
     <div>
       <Hero />
+
+     
       <Who />
       <Narative />
 
