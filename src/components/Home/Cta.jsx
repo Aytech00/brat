@@ -13,21 +13,20 @@ export default function Cta() {
             <a
               href="
 https://t.me/bratt_on_sol"
-
-target='_blank'
+              target="_blank"
             >
               <button className="rounded-full  transition-all hover:scale-105 text-black border-4 border-black   bg-[#57D1FE]  text-[14px] md:text-xl px-5 md:px-10 py-1">
                 TELEGRAM
               </button>
             </a>
 
-            <a href="https://twitter.com/brattonsol" target='_blank'>
+            <a href="https://twitter.com/brattonsol" target="_blank">
               <button className="rounded-full transition-all hover:scale-105 text-black border-4 border-black    bg-[#57D1FE]  text-[14px] md:text-xl px-5 md:px-10 py-1">
                 X
               </button>
             </a>
 
-            <a href="/">
+            <a href="https://dexscreener.com/solana/5uZbTHDkFcQVxf3cxXFuMMaAeNuXrW5MocfW5bKQ8ZrV" target='_blank'>
               <button className="rounded-full transition-all hover:scale-105 text-black border-4 border-black    bg-[#57D1FE]  text-[14px] md:text-xl px-5 md:px-10 py-1">
                 Buy Now
               </button>
