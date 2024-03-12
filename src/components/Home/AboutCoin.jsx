@@ -12,7 +12,7 @@ export default function AboutCoin() {
           <div className=" w-full md:w-[40%]  ">
             <img className=" md:h-full w-[500px] md:w-[750px]" src={img2} alt="" />
           </div>
-          <div className="  w-full  text-center md:text-left  px-5 md:w-[40%] text-[15px]  md:ml-20">
+          <div className="  w-full text-white  text-center md:text-left  px-5 md:w-[40%] text-[15px]  md:ml-20">
             <p className="mb-5 leading-loose">
               In the ever-evolving world of cryptocurrency, a new token emerges,
               promising not just innovation but a legacy. "Bratt," named after

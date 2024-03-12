@@ -24,7 +24,7 @@ export default function How() {
               </h1>
               <span></span>
 
-              <p className="text-[14px] text-center">
+              <p className="text-[14px] text-white text-center">
                  Download and install phantom wallet on the appstore, or
                 alternatively if you're on the desktop download and install the
                 browser extension. Phantom wallet link: https://phantom.app/
@@ -35,7 +35,7 @@ export default function How() {
                 2
               </h1>
 
-              <p className="text-[14px] text-center">
+              <p className="text-[14px] text-white text-center">
                 Now all you have to do is buy your solana in the phantom app, or
                 alternatively you can use an exchange and deposit using your
                 wallet address. <br /> Binance: https://www.binance.com/ <br />{" "}
@@ -47,7 +47,7 @@ export default function How() {
                 3
               </h1>
 
-              <p className="text-[14px] text-center">
+              <p className="text-[14px] text-center md:ml-14 text-white">
                 Go on to Raydium and paste the CA to swap your SOL for $BRATT{" "}
                 <br /> Radium buy link:{" "}
                 <a
