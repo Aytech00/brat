@@ -45,8 +45,8 @@ export default function How() {
               </h1>
 
               <p className="text-[14px] text-center">
-                Buy ETH from your favorited CEX such as Binance or coinbase.
-                Bridge your eth from ethereum to base using Orbiter.finance .
+                Buy $BRATT. Do Not Jeet. Take out your initials if you have to.
+                Most importantly, HOLD until we reach the millions
               </p>
             </div>
           </div>
