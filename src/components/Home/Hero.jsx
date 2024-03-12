@@ -1,5 +1,5 @@
 import gif from '../../assets/gif.webp'
-import img from "../../assets/hero.webp";
+import img from "../../assets/newhero.png";
 export default function Hero() {
 
   return (

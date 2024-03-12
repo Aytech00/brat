@@ -1,5 +1,5 @@
 import React from 'react'
-import img from '../../assets/lastog.webp'
+import img from "../../assets/newhero.png";
 export default function Cta() {
   return (
     <div className="container flex justify-center py-20">
