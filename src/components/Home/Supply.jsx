@@ -7,7 +7,7 @@ export default function Supply() {
       <div>
         <img className="mx-auto w-[300px] mb-10 md:mb-0 md:w-[800px]" src={img2} alt="" />
         <div className="flex text-center md:text-left justify-center flex-col md:flex-row md:items-center ">
-          <div className="w-full md:w-[400px]">
+          <div className="w-full mb-10 md:mb-0 md:w-[400px]">
             <div className="mb-6">
               <h1 className=" text-6xl md:text-8xl font-extrabold">10m</h1>
               <p className="text-xl font-semibold">TOTAL SUPPLY</p>

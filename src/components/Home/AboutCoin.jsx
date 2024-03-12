@@ -9,7 +9,7 @@ export default function AboutCoin() {
           <img className="mx-auto w-[300px] md:w-[800px]" src={img} alt="" />
         </div>
         <div className="flex items-center flex-col md:flex-row  justify-center ">
-          <div className=" w-[40%]  ">
+          <div className=" w-full md:w-[40%]  ">
             <img className=" md:h-full w-[500px] md:w-[750px]" src={img2} alt="" />
           </div>
           <div className="  w-full  text-center md:text-left  px-5 md:w-[40%] text-[15px]  md:ml-20">

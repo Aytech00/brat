@@ -7,12 +7,12 @@ export default function How() {
     <section className=" bg-[#4978B5]  flex justify-center ">
       <div className=" container py-14">
         <div className="">
-          <img className="mx-auto w-[300px] md:w-[800px]" src={img} alt="" />
+          <img className="mx-auto w-[350px] md:w-[800px]" src={img} alt="" />
         </div>
         <div className="flex mt-10 flex-col md:flex-row  justify-center ">
           <div className=" md:w-[40%]  ">
             <img
-              className=" -m-24 md:h-[700px] mx-auto w-[300px] h-[500px] md:w-[300px]"
+              className=" -m-20 md:h-[700px] mx-auto w-[300px] h-[500px] md:w-[300px]"
               src={img2}
               alt=""
             />
